@@ -1,0 +1,12 @@
+Flask==2.0.3
+pydub==0.25.1
+speechrecognition==3.8.1
+pytube==12.1.0
+Werkzeug==2.0.3
+yt-dlp==2023.3.4
+requests
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
